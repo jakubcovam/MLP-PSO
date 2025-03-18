@@ -1,0 +1,11 @@
+The_settings_for_PSO
+Number_of_Complexes: 3
+Number_of_Members_in_one_Complex: 40
+Number_of_generations_in_one_Complex: 20
+Max_number_of_SHUFFLING: 15
+Standart_PSO_parameters_K_C_Cw: 0.729 1.49445 2
+Ensemble: 25
+Algorithm_selection: 3
+PSO_selection_0-ConstrFactor_1-ConstantW_2-RandomW_3-LinTimeVaryingW_4-ChaoticW
+PSO_selection_5-ChaoticRandW_6-NonlinTimeConstW_7-NonlinTimeVaryingW_8-AdaptW_9-APartW
+Directory_for_output: ./outputs

@@ -1,0 +1,6 @@
+The_settings_for_MLP
+Number_of_Inputs_with_Bias: 7
+Number_of_Neurons_in_Hidden_Layer: 3
+Opt_crit_0-MSE_1-MAE_2-MAPE_3-NS_4-LNNS_5-MRE_6-tPI_7-PI_8-PID: 8
+Directory_for_Inputs: ./data/inputs
+Directory_for_Outputs: ./data/outputs
